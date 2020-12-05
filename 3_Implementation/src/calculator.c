@@ -22,31 +22,31 @@ int divide(int operand1, int operand2)
     else
         return operand1 / operand2;
 }
-int kmtom(int operand1, int operand 2)
+int kmtom(int operand1)
 {
   return operand1 * 1000;
 }
-int mtocm(int operand1, int operand2)
+int mtocm(int operand1)
 {
   return operand1 * 100;
 }
-int ftoi(int operand1, int operand2)
+int ftoi(int operand1)
 {
   return operand1 * 12;
 }
-int itocm(int operand1, int operand2)
+int itocm(int operand1)
 {
   return operand1 * 2.54;
 }
-int cmtom(int operand1, int operand2)
+int cmtom(int operand1)
 {
   return operand1 * 0.01;
 }
-int ytom(int operand1, int operand2)
+int ytom(int operand1)
 {
   return operand1 * 0.9144;
 }
-int ytocm(int operand1, int operand2)
+int ytocm(int operand1)
 {
   return operand1 * 91.44;
 }
